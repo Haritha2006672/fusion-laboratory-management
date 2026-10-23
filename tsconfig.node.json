@@ -8,6 +8,5 @@
     "moduleResolution": "Bundler",
     "noEmit": true,
     "strict": true
-  },
-  "files": []
+  }
 }
